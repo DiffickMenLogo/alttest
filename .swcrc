@@ -1,0 +1,14 @@
+{
+  "jsc": {
+    "parser": {
+      "syntax": "typescript",
+      "dynamicImport": true,
+      "functionBind": true,
+      "decorators": true
+    },
+    "target": "es2022",
+    "transform": {
+      "decoratorMetadata": true
+    }
+  }
+}

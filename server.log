@@ -1,0 +1,65 @@
+[22:07:38] alt:V Server 16.2.27 (release)
+[22:07:38] Starting alt:V Server on [::]:7788
+[22:07:38] Loading resource chat
+[22:07:38] Loaded resource chat
+[22:07:38] Loading resource freeroam
+[22:07:38][Warning][js] Trying to import resource 'chat' without 'alt:' prefix, this is deprecated behaviour.
+[22:07:38][Warning][js] Import 'alt:chat' instead to silence this warning.
+[22:07:38] Loaded resource freeroam
+[22:07:38] Loading resource vehdmg
+[22:07:39] Loaded resource vehdmg
+[22:07:39] Loading resource streetnames
+[22:07:39] Loaded resource streetnames
+[22:07:39] Loading resource death
+[22:07:39] Loaded resource death
+[22:07:39] Loading resource EasyNoClip
+[22:07:39] Loaded resource EasyNoClip
+[22:07:39] Loading resource altvNpc
+[22:07:39] Loaded resource altvNpc
+[22:07:39] Loading resource reconnect
+[22:07:40] Loaded resource reconnect
+[22:07:40] Loading resource vehicle-addon
+[22:07:40] Loaded resource vehicle-addon
+[22:07:40] Loading resource core
+[22:07:40][Warning][js] Trying to import resource 'chat' without 'alt:' prefix, this is deprecated behaviour.
+[22:07:40][Warning][js] Import 'alt:chat' instead to silence this warning.
+[22:07:40] Loaded resource core
+[22:07:40] Required server permissions:
+[22:07:40] Optional server permissions:
+[22:07:40] Starting HTTP server on [::]:7788
+[22:07:40] Main thread started (ThreadId: 22516)
+[22:07:40] EntityStreamer thread started (ThreadId: 7728)
+[22:07:40] SyncSend thread started (ThreadId: 16540)
+[22:07:40] SyncSend thread started (ThreadId: 31256)
+[22:07:40] SyncSend thread started (ThreadId: 15732)
+[22:07:40] SyncSend thread started (ThreadId: 31048)
+[22:07:40] SyncSend thread started (ThreadId: 14568)
+[22:07:40] SyncSend thread started (ThreadId: 11532)
+[22:07:40] SyncSend thread started (ThreadId: 2384)
+[22:07:40] SyncSend thread started (ThreadId: 27372)
+[22:07:40] SyncReceive thread started (ThreadId: 25564)
+[22:07:40] SyncReceive thread started (ThreadId: 1940)
+[22:07:40] NetworkWorker #1 thread started (ThreadId: 12380)
+[22:07:40] SyncReceive thread started (ThreadId: 5152)
+[22:07:40] SyncReceive thread started (ThreadId: 21800)
+[22:07:40] Console thread started (ThreadId: 14344)
+[22:07:40][Warning] Server started in debug mode
+[22:11:10] Stopping resource chat
+[22:11:10] Stopping resource core
+[22:11:10] Stopped resource core
+[22:11:10] Stopping resource freeroam
+[22:11:10] Stopped resource freeroam
+[22:11:10] Stopped resource chat
+[22:11:10] Stopping resource reconnect
+[22:11:10] Stopped resource reconnect
+[22:11:10] Stopping resource EasyNoClip
+[22:11:10] Stopped resource EasyNoClip
+[22:11:10] Stopping resource vehdmg
+[22:11:10] Stopped resource vehdmg
+[22:11:10] Stopping resource death
+[22:11:10] Stopped resource death
+[22:11:10] Stopping resource altvNpc
+[22:11:10] Stopped resource altvNpc
+[22:11:10] Stopping resource vehicle-addon
+[22:11:10] Stopped resource vehicle-addon
+[22:11:10] Server shutdown
